@@ -10,7 +10,7 @@ This project performs sentiment analysis using three deep learning models: Simpl
 
 ## Web App
 
-The **Streamlit** web app lets users input text and get sentiment predictions (positive, negative, neutral) using any of the trained models.
+The **Streamlit** web app lets users input text and get sentiment predictions (positive, negative) using any of the trained models.
 
 ## Getting Started
 
